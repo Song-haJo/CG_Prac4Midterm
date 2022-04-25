@@ -20,3 +20,5 @@ function draw() {
   //image() 선언문으로 사각 스크린 바깥에 위치한 그래픽 버퍼를 그립니다.
   image(pg, 150, 75);
 }
+
+// https://p5js.org/ko/examples/structure-create-graphics.html
